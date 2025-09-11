@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋 My name is Sam
+===============================
 
-<!--
-**Asd75/Asd75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & Freelance
+------------------------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Paris, France
+* 🖥️  See my portfolio at [sdesgard.in](https://sdesgard.in/)
+* ✉️  You can contact me at [contact@sdesgard.in](mailto:contact@sdesgard.in)
+* 🚀  I'm currently working on three SaaS that will be shipped soon
+* 🧠  I'm learning in depths MCP servers
+* 🤝  I'm open to collaborating on exciting projects with interesting stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+
+  <a href="https://github.com/Asd75" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/samir-desgardin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://x.com/guruu750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+
+### Github Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ASd75&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+
+
+</body>
+</html>

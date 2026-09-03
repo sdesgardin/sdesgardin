@@ -3,7 +3,7 @@
 * 👋  Senior Software Engineer
 * 🌍  Based in Paris, France
 * 🖥️  About my work : [sdesgard.in](https://sdesgard.in/)
-* ✉️  For Collaborations : [contact@sdesgard.in](mailto:contact@sdesgard.in)
+* ✉️  For Collaborations : [contact@sdesgard.in](mailto:sdesg@proton.me)
 
 ### Github Stats
 
